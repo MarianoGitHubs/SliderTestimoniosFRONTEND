@@ -18,11 +18,11 @@ var swiper = new Swiper(".slide-content", {
       slidesPerView: 1,
     },
     520: {
-      slidesPerView: 2.1, // Mantén 2.1 para las pantallas más grandes
+      slidesPerView: 2.1, // Mantener 2.1 para las pantallas más grandes
       spaceBetween: 20, // Ajusta el espacio entre las diapositivas
     },
     950: {
-      slidesPerView: 2.1, // Mantén 2.1 para las pantallas más grandes
+      slidesPerView: 2.1, // Mantener 2.1 para las pantallas más grandes
       spaceBetween: 20, // Ajusta el espacio entre las diapositivas
     },
   },

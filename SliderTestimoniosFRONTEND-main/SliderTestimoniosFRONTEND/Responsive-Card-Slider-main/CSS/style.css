@@ -120,7 +120,7 @@ h2.text-center {
 
 .swiper-navBtn::before,
 .swiper-navBtn::after {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .swiper-button-next {
@@ -139,8 +139,8 @@ h2.text-center {
 }
 
 .swiper-pagination-bullet {
-  width: 10px; 
-  height: 10px; 
+  width: 8px; 
+  height: 7.2px; 
   border-radius: 50%;
   border: 2px solid #FFFFFF; 
   background-color: transparent; 
@@ -155,7 +155,7 @@ h2.text-center {
 
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .slide-content {
     margin: 0 10px;
   }
